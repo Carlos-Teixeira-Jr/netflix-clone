@@ -1,0 +1,174 @@
+{
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dw_x4zB2sh0b_WCEEjyXc3tShZY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-cT495xKvvs"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-17T17:00:00Z",
+        "channelId": "UC_IRYSp4auq7hKLvziWVH6w",
+        "title": "Elemental | Teaser Trailer",
+        "description": "She's Ember . He's Wade  . Welcome to Element City. Watch the new trailer for Disney and Pixar's #Elemental and see the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-cT495xKvvs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-cT495xKvvs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-cT495xKvvs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Pixar",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-17T17:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "p1HSeO9WOoaYRSUGVJU93wAY8hg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bKh2G73gCCs"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-21T12:47:16Z",
+        "channelId": "UC_976xMxPgzIa290Hqtk-9g",
+        "title": "Strange World | Official Trailer",
+        "description": "Explore the adventures beyond our world in the NEW TRAILER for Disney's #StrangeWorld, in theaters November 23! The ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bKh2G73gCCs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bKh2G73gCCs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bKh2G73gCCs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Walt Disney Animation Studios",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-21T12:47:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bea8GTC8bAfLXFB3T5zz-tB7AUs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4WdSQFdMYZg"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-29T17:00:02Z",
+        "channelId": "UCuaFvcY4MhZY3U43mMt1dYQ",
+        "title": "Night At The Museum: Kahmunrah Rises Again | Official Trailer | Disney+",
+        "description": "Get ready for one more crazy night. Watch the new trailer for #NightAtTheMuseum: Kahmunrah Rises Again, streaming ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4WdSQFdMYZg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4WdSQFdMYZg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4WdSQFdMYZg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Walt Disney Studios",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-29T17:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QmdGzozLJFHb1BZpaq3jX1rFkHA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0-wPm99PF9U"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-09T23:42:33Z",
+        "channelId": "UCuaFvcY4MhZY3U43mMt1dYQ",
+        "title": "The Little Mermaid - Official Teaser Trailer",
+        "description": "Out of the sea, wish I could be... part of that world. Disney's The Little Mermaid is coming to theaters May 26, 2023. “The Little ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0-wPm99PF9U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0-wPm99PF9U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0-wPm99PF9U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Walt Disney Studios",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-09T23:42:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hmoDV53js-wqxo3qGkX9Yy-tDM8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wPSMjSv4Cwk"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-01T21:46:48Z",
+        "channelId": "UCP6nJ-Elnfnpjv6HQRsv1Cw",
+        "title": "Indiana Jones e O Chamado do Destino | Trailer Oficial Legendado",
+        "description": "Um personagem icônico, muitas aventuras clássicas, um novo filme! #IndianaJones e O Chamado do Destino, em junho nos ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wPSMjSv4Cwk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wPSMjSv4Cwk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wPSMjSv4Cwk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Walt Disney Studios BR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-01T21:46:48Z"
+      }
+    }
+  ]
+}
