@@ -37,10 +37,15 @@ const Banner = (props) => {
         </div>
       </div>
       <div
-         className={styles.bannerImg}
-        style={{
-          backgroundImage: `url(${imgUrl})`,
-        }}>
+        className={styles.bannerImg}
+      >
+        <Image
+          src={imgUrl}
+          alt="Banner Image"
+          fill
+          style={{ objectFit: "cover" }}
+          quality={100}
+        />
       </div>
     </div>
   )
