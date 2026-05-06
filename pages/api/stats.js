@@ -16,6 +16,7 @@ export default async function stats(req, res){
       if(videoId){
 
         const userId = await verifyToken(token);
+        console.log("🚀 ~ stats ~ userId:", userId)
 
         const findVideo = await findVideoIdByUser(token, userId, videoId);
           

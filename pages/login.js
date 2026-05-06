@@ -42,6 +42,9 @@ const Login = () => {
           const didToken = await magic.auth.loginWithMagicLink({
             email,
           });
+
+          console.log("didToken:", didToken);
+          
           if (didToken) {
             
             const response = await fetch("/api/login",{

@@ -81,10 +81,10 @@ const Navbar = () => {
 
         <ul className={styles.navItems}>
           <li className={styles.navItem} onClick={handleOnClickHome}>
-            Home
+            Início
           </li>
           <li className={styles.navItem2} onClick={handleOnClickMyList}>
-            My List
+            Minha Lista
           </li>
         </ul>
         
