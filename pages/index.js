@@ -64,9 +64,9 @@ export default function Home({
 
         <div className={styles.sectionWrapper}>
           <SectionCards key={disneyVideos.id} title="Disney" videos={disneyVideos} size="large"/>
-          <SectionCards key={watchItAgainVideos.id} title="Watch it again" videos={watchItAgainVideos} size="small"/>
-          <SectionCards key={travelVideos.id} title="Travel" videos={travelVideos} size="small"/>
-          <SectionCards key={productivityVideos.id} title="Productivity" videos={productivityVideos} size="medium"/>
+          <SectionCards key={watchItAgainVideos.id} title="Ver novamente" videos={watchItAgainVideos} size="small"/>
+          <SectionCards key={travelVideos.id} title="Turismo" videos={travelVideos} size="small"/>
+          <SectionCards key={productivityVideos.id} title="Produtividade" videos={productivityVideos} size="medium"/>
           <SectionCards key={popularVideos.id} title="Popular" videos={popularVideos} size="small"/>
         </div>
       </div>
