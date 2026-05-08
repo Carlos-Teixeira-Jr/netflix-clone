@@ -74,17 +74,16 @@
 .navDropdown {
   position: absolute;
   margin-left: auto;
+  margin-right: auto;
+  right: 9rem;
   margin-top: 0.5rem /* 8px */;
   padding-top: 0.5rem /* 8px */;
   padding-bottom: 0.5rem /* 8px */;
-  padding-right: 0.5rem;
   background-color: var(--black50);
   border-width: 1px;
   color: var(--white);
   border-radius: 0.25rem /* 4px */;
-
   border-color: var(--blue);
-
   box-shadow: var(--shadow30, 0 0 #0000), var(--ring-shadow, 0 0 #0000),
     var(--shadow30);
 }
@@ -105,11 +104,6 @@
 
 .linkName:hover {
   text-decoration: underline;
-}
-
-.lineWrapper {
-  padding-top: 0.5rem /* 8px */;
-  padding-bottom: 0.5rem /* 8px */;
 }
 
 @media (min-width: 768px) {
