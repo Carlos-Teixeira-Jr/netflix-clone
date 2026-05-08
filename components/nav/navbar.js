@@ -105,7 +105,7 @@ const Navbar = () => {
               <div className={styles.navDropdown}>
                 <div>
                   <Link href="/login" legacyBehavior>
-                    <a className={styles.linkName}  onClick={handleSignOut}>Sign out</a>
+                    <a className={styles.linkName}  onClick={handleSignOut}>Sair</a>
                   </Link>
                   <div className={styles.lineWrapper}></div>
                 </div>
